@@ -1,0 +1,17 @@
+.headSection{
+    background-color: #131313;
+}
+.brandName{
+    color: #FF014F;
+}
+.nav-item a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.personPhoto{
+    width: 400px;
+}
+.text_contact{
+    color: white;
+}
+
